@@ -2,7 +2,7 @@
 
 Zenburn is a low-contrast color scheme. In the words of its original creator, "It's easy on your eyes and designed to keep you in the zone for long programming sessions."
 
-![](Images/nova-zenburn.png)
+![](https://raw.githubusercontent.com/chipotle/zenburn-nova/main/Images/nova-zenburn.png)
 
 The original Zenburn for Vim was created by Jani Nurminen.
 
