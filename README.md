@@ -9,6 +9,10 @@ The original Zenburn for Vim was created by Jani Nurminen.
 - [The Official Zenburn Page](https://kippura.org/zenburnpage/)
 - [Vim Zenburn on GitHub](https://github.com/jnurmine/Zenburn/)
 
+This port was created by Watts Martin.
+
+Homepage: https://github.com/chipotle/zenburn-nova
+
 I've tried many other dark themes over the years, but I always come back to Zenburn. While this port tries to be faithful to the original color scheme, Nova and Vim have very different theming engines.
 
 As with the original Zenburn, this port is licensed under GPL.
