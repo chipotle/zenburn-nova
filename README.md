@@ -16,3 +16,7 @@ Homepage: https://github.com/chipotle/zenburn-nova
 I've tried many other dark themes over the years, but I always come back to Zenburn. While this port tries to be faithful to the original color scheme, Nova and Vim have very different theming engines.
 
 As with the original Zenburn, this port is licensed under GPL.
+
+The font used in the screenshot is MB Type's Triplicate Code.
+
+https://typographyforlawyers.com/triplicate.html
