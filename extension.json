@@ -1,0 +1,12 @@
+{
+  "identifier": "chipotle.Zenburn",
+  "name": "Zenburn",
+  "organization": "Coyote Tracks",
+  "author": "Watts Martin",
+  "description": "A pleasant, low-contrast dark theme.",
+  "version": "1.0",
+  "categories": ["themes"],
+  "bugs": "https://github.com/chipotle/zenburn-nova/issues",
+  "repository": "https://github.com/chipotle/zenburn-nova",
+  "license": "GPL-3.0-or-later"
+}
