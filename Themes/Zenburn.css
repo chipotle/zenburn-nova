@@ -86,11 +86,12 @@ meta.text.invisible {
   color: #8f8f8f; /* Conceal */
 }
 meta.text.selected {
+  background-color: #484888;
 }
 
 /* Cursor */
 meta.cursor {
-  background-color: #424241;
+  background-color: #444;
 }
 
 /* Indentation Guides */
@@ -100,11 +101,10 @@ meta.indentguide {
 
 /* Gutter */
 meta.gutter {
-  color: #434343;
+  color: #9fafaf;
+  /* background-color: #262626; */
 }
 meta.gutter.selected {
-  background-color: #4f4f4f;
-  /* color: #4f4f4f; */
 }
 
 /*
@@ -180,6 +180,9 @@ identifier.decorator,
 identifier.function,
 identifier.method {
   /* color: #efef8f; */
+}
+identifier.function.name {
+  color: #3a1d72;
 }
 identifier.key {
   color: #dfcfaf; /* Label (no underline) */
