@@ -9,14 +9,10 @@ The original Zenburn for Vim was created by Jani Nurminen.
 - [The Official Zenburn Page](https://kippura.org/zenburnpage/)
 - [Vim Zenburn on GitHub](https://github.com/jnurmine/Zenburn/)
 
-This port was created by Watts Martin.
+This port was created by Watts Martin. The theme has primarily been tested with PHP (including Advanced PHP), HTML, CSS, SCSS, and Ruby.
 
-Homepage: https://github.com/chipotle/zenburn-nova
+Following the original Zenburn, this port is licensed under GPL.
 
-I've tried many other dark themes over the years, but I always come back to Zenburn. While this port tries to be faithful to the original color scheme, Nova and Vim have very different theming engines.
+The font used in the screenshot is [MB Type's Triplicate Code][1].
 
-As with the original Zenburn, this port is licensed under GPL.
-
-The font used in the screenshot is MB Type's Triplicate Code.
-
-https://typographyforlawyers.com/triplicate.html
+[1]: https://typographyforlawyers.com/triplicate.html

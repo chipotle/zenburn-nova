@@ -1,3 +1,8 @@
+## Version 1.1.1
+
+* Add `identifier.parameter.name`
+* Updated screenshot
+
 ## Version 1.1
 
 * New selection color
