@@ -169,7 +169,8 @@ identifier.constant {
   font-weight: bold;
 }
 identifier.global,
-identifier.variable {
+identifier.variable,
+identifier.parameter.name {
   color: #f0dfaf;
 }
 identifier.variable.prefix {
@@ -181,9 +182,9 @@ identifier.function,
 identifier.method {
   /* color: #efef8f; */
 }
-identifier.function.name {
+/* identifier.function.name {
   color: #3a1d72;
-}
+} */
 identifier.key {
   color: #dfcfaf; /* Label (no underline) */
 }
